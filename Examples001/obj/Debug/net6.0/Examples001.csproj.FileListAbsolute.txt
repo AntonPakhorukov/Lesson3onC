@@ -1,0 +1,15 @@
+D:\Geek Brains 2022\C#\Lesson3\Examples001\bin\Debug\net6.0\Examples001.exe
+D:\Geek Brains 2022\C#\Lesson3\Examples001\bin\Debug\net6.0\Examples001.deps.json
+D:\Geek Brains 2022\C#\Lesson3\Examples001\bin\Debug\net6.0\Examples001.runtimeconfig.json
+D:\Geek Brains 2022\C#\Lesson3\Examples001\bin\Debug\net6.0\Examples001.dll
+D:\Geek Brains 2022\C#\Lesson3\Examples001\bin\Debug\net6.0\Examples001.pdb
+D:\Geek Brains 2022\C#\Lesson3\Examples001\obj\Debug\net6.0\Examples001.csproj.AssemblyReference.cache
+D:\Geek Brains 2022\C#\Lesson3\Examples001\obj\Debug\net6.0\Examples001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains 2022\C#\Lesson3\Examples001\obj\Debug\net6.0\Examples001.AssemblyInfoInputs.cache
+D:\Geek Brains 2022\C#\Lesson3\Examples001\obj\Debug\net6.0\Examples001.AssemblyInfo.cs
+D:\Geek Brains 2022\C#\Lesson3\Examples001\obj\Debug\net6.0\Examples001.csproj.CoreCompileInputs.cache
+D:\Geek Brains 2022\C#\Lesson3\Examples001\obj\Debug\net6.0\Examples001.dll
+D:\Geek Brains 2022\C#\Lesson3\Examples001\obj\Debug\net6.0\refint\Examples001.dll
+D:\Geek Brains 2022\C#\Lesson3\Examples001\obj\Debug\net6.0\Examples001.pdb
+D:\Geek Brains 2022\C#\Lesson3\Examples001\obj\Debug\net6.0\Examples001.genruntimeconfig.cache
+D:\Geek Brains 2022\C#\Lesson3\Examples001\obj\Debug\net6.0\ref\Examples001.dll
